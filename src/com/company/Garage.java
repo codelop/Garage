@@ -27,7 +27,7 @@ public class Garage {
         while (count <= capacity) {
             System.out.println("Please insert the car's number plate:");
             String plate = userInput.nextLine();
-            System.out.println("Enter car brand: ");
+            System.out.println("Enter car's brand: ");
             String brand = userInput.nextLine();
             System.out.println("Enter the car model:");
             String model = userInput.nextLine();
